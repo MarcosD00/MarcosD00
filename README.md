@@ -20,6 +20,10 @@ If you are looking for a dynamic and driven full-stack developer who is always e
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9969F7&width=435&lines=Bio)](https://git.io/typing-svg)
+
+Enthusiastic full-stack developer with a love for coding and a passion for problem-solving. Recently graduated, I'm equipped with a diverse skill set in front-end and back-end technologies. A collaborative team player, I thrive in dynamic environments, leveraging effective communication to drive projects forward. Facing obstacles with unwavering determination, I never give up until solutions are found. Committed to continuous learning, I stay up-to-date with cutting-edge trends. Eager to contribute my creativity and technical acumen to build user-centric, scalable, and impactful software solutions. 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9969F7&width=435&lines=My+contact+info)](https://git.io/typing-svg)
 
 email: mdelvalle0623@gmail.com
