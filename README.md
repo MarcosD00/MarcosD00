@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Marcos+Del+Valle+;this+is+a+little+about+me)](https://git.io/typing-svg)
 
 <!--
 **MarcosD00/MarcosD00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd00&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd00&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
