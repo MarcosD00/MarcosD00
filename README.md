@@ -22,7 +22,7 @@ If you are looking for a dynamic and driven full-stack developer who is always e
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9969F7&width=435&lines=Bio)](https://git.io/typing-svg)
 
-Enthusiastic full-stack developer with a love for coding and a passion for problem-solving. Recently graduated, I'm equipped with a diverse skill set in front-end and back-end technologies. A collaborative team player, I thrive in dynamic environments, leveraging effective communication to drive projects forward. Facing obstacles with unwavering determination, I never give up until solutions are found. Committed to continuous learning, I stay up-to-date with cutting-edge trends. Eager to contribute my creativity and technical acumen to build user-centric, scalable, and impactful software solutions. 
+Enthusiastic full-stack developer with a love for coding and a passion for problem-solving. Recently graduated, I'm equipped with a diverse skill set in front-end and back-end technologies. A collaborative team player, I thrive in dynamic environments, leveraging effective communication to drive projects forward. Facing obstacles with unwavering determination, I never give up until solutions are found. Committed to continuous learning, I stay up-to-date with cutting-edge trends. Eager to contribute my creativity and technical acumen to build user-centric, scalable, and impactful software solutions!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9969F7&width=435&lines=My+contact+info)](https://git.io/typing-svg)
 
