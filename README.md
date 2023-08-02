@@ -1,4 +1,16 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Marcos+Del+Valle+;this+is+a+little+about+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9969F7&width=435&lines=Hi!+My+name+is+Marcos+Del+Valle+;this+is+a+little+about+me)](https://git.io/typing-svg)
+
+I'm a passionate and ambitious full-stack developer eager to make my mark in the tech industry. Recently graduated, I am now actively seeking a challenging and rewarding role that allows me to showcase my skills and contribute to innovative projects.
+
+I have a strong foundation in both front-end and back-end development, with hands-on experience in various programming languages, frameworks, and technologies. I believe that the key to success in software development is continuous learning, and I am always excited to stay updated with the latest industry trends and best practices.
+
+One of my greatest strengths is my ability to thrive in a collaborative team environment. I firmly believe that teamwork fosters creativity and brings out the best in each individual. My open-mindedness and excellent communication skills enable me to effectively collaborate with colleagues and stakeholders, creating a positive and productive work atmosphere.
+
+In the face of challenges, I never back down. I approach problem-solving with tenacity and determination, diligently working through obstacles until I find the best solution. Failure is not an endpoint for me; instead, it serves as a valuable learning opportunity to grow and improve my skills.
+
+I am a firm believer in the power of technology to make a positive impact on people's lives, and I am committed to creating user-friendly and scalable applications that enhance the user experience.
+
+If you are looking for a dynamic and driven full-stack developer who is always eager to learn and never shies away from challenges, I would be thrilled to be a part of your team. Let's collaborate and make an impact together!
 
 <!--
 **MarcosD00/MarcosD00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
